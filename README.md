@@ -31,7 +31,7 @@
 ## Parâmetros:
 - **Soma**: Identifique cada valor na tabela, conte quantas vezes ele se repete e some os valores correspondentes.
 - **Média**: Divida a soma pelo produto do número de linhas (25) e colunas (8) da tabela.
-- **Soma da variância**: Para cada valor na tabela, subtraia da média, eleve o resultado ao quadrado e multiplique pela quantidade de vezes que esse número se repete. Repita o processo para todos os valores e, ao final, some os resultados.
+- **Soma da variância**: Para cada valor na tabela, subtraia a média, eleve o resultado ao quadrado e multiplique pela quantidade de vezes que esse número se repete. Repita o processo para todos os valores e, ao final, some os resultados.
 - **Média da variância**: Divida a soma da variância por 200 (o produto da matriz de 25 linhas por 8 colunas) e subtraia 1. Portanto, o cálculo é: Soma da variância / (200 - 1).
 - **Desvio Padrão**: Representa o grau de variação de um conjunto de elementos. Para encontrá-lo, basta calcular a raiz quadrada da média da variância.
 
